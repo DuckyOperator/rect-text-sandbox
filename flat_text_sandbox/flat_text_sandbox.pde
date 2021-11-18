@@ -1,6 +1,6 @@
 //Global Variables
 int titleX, titleY, titleWidth, titleHeight;
-String Title = "wow im so good at coding look at me";
+String title = "what do you call a bear with no teeth? a gummy bear";
 PFont titleFont;
 color purple=#792379, white=#FFFFFF;
 
